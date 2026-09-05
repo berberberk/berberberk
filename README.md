@@ -27,6 +27,7 @@ class TarasPedchenko:
     education = [
         "B.Sc. Applied Mathematics, MIREA",
         "M.Sc. Artificial Intelligence, ITMO"
+    ]
 
     engineering = [
         "production ML services",
