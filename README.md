@@ -24,7 +24,9 @@
 ```python
 class TarasPedchenko:
     role = "Machine Learning Engineer"
-    education = "B.Sc. Applied Mathematics, MIREA"
+    education = [
+        "B.Sc. Applied Mathematics, MIREA",
+        "M.Sc. Artificial Intelligence, ITMO"
 
     engineering = [
         "production ML services",
